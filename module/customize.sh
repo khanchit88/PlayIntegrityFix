@@ -39,7 +39,6 @@ REMOVE="
 /system/system/app/XInjectModule
 /system/system_ext/app/hentaiLewdbSVTDummy
 /system/system_ext/app/PifPrebuilt
-/system/system_ext/overlay/CertifiedPropsOverlay.apk
 "
 
 if [ "$KSU" = "true" -o "$APATCH" = "true" ]; then
